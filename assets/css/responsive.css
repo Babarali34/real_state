@@ -1,0 +1,41 @@
+
+
+
+ 
+
+
+
+@media  (max-width: 768px) {
+	         h1{font-size: 1.9rem;}
+	         h2{font-size: 1.3rem;}
+	         h6{font-size: 1.3rem;}
+
+	                    .header-info
+	                       {left: 0;margin-left: 5px;}
+
+	                         .header-info .ul 
+
+							{background: transparent;
+						
+							width: 60%;margin:auto;}
+							  .header-info .ul li
+							  {width: 100%;margin-top: 10px;}
+ 
+                       .company-sect-img
+                      {margin: auto;}
+                      .subscrb-form a
+                      {margin-top: 15px;}
+
+                      .header-part
+			{background-image:
+			        linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+			        url('../images/3 (1).jpg');
+			background-size: 100% 100%  !important;
+			}
+			.big-heading
+			{font-size: 7rem;}
+
+	           
+  }
+					
+			 
